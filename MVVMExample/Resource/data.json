@@ -1,0 +1,59 @@
+{
+    "list": [{
+             "type": 0,
+             "color": "F57851",
+             "title": "活期",
+             "amount": "32,000.00"
+             }, {
+             "type": 0,
+             "color": "4A90E2",
+             "title": "定期",
+             "amount": "32,000.00",
+             "desc": "什么是定期",
+             "subs": [{
+                      "type": 1,
+                      "title": "待收本金",
+                      "amount": "32,000.00",
+                      "desc": "什么是待收本金"
+                      },
+                      {
+                      "type": 1,
+                      "title": "待收收益",
+                      "amount": "100.00",
+                      "desc": "什么是待收收益"
+                      }
+                      ]
+             }, {
+             "type": 0,
+             "color": "7F89E0",
+             "title": "基金",
+             "amount": "10,000.00",
+             "desc": "什么是基金"
+             }, {
+             "type": 0,
+             "color": "51B64F",
+             "title": "余额",
+             "amount": "10,000.00",
+             "subs": [{
+                      "type": 1,
+                      "title": "可用余额",
+                      "amount": "8,000.00",
+                      "desc": "什么是可用余额"
+                      }, {
+                      "type": 1,
+                      "title": "提现中",
+                      "amount": "2,000.00",
+                      "desc": "什么是提现中余额"
+                      }, {
+                      "type": 1,
+                      "title": "赎回中",
+                      "amount": "0.00"
+                      }]
+             }, {
+             "type": 0,
+             "color": "F95B5F",
+             "title": "夺宝待扣",
+             "amount": "0.00"
+             }],
+    "bookmark": "1"
+}
